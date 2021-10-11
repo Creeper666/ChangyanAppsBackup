@@ -4,6 +4,6 @@
 * Not only can you analysis them,but also install them on your own android devices.
 
 
-## Some repository is familiar to this.Also see:
+## Some repository is similar. Also see:
 * https://github.com/xtuiflyzhkt/iflytek_cyzhkt_cr
 * https://github.com/Kirinnana/iflytek-smart-class-app
